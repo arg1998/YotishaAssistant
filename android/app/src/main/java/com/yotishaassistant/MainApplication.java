@@ -36,7 +36,6 @@ public class MainApplication extends Application implements ReactApplication {
             new RealmReactPackage(),
             new MapsPackage(),
             new RNFusedLocationPackage()
-
             );
         }
 

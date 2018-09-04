@@ -1,3 +1,1 @@
-import {onTabChanged} from './NavigationActionCreators';
-
-export {onTabChanged};
+export { onTabChanged } from './NavigationActionCreators';
