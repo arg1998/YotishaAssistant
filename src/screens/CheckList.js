@@ -7,7 +7,7 @@ export default class CheckList extends React.Component{
 
         return(
             <View style={styles.container}>
-                <Text style={{fontSize:28}}>CheckList</Text>
+                <Text style={{fontFamily:'sahel'  ,fontSize:28}}>چک لسیت ۱۲۳</Text>
             </View>
         )
     }
